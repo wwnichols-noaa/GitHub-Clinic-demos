@@ -1,4 +1,4 @@
-# Introduction
+# Purpose of this repository
 - 1
 - 2
 - 3
